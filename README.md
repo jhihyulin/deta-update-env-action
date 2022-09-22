@@ -9,5 +9,4 @@ with:
   deta-name: '' #Deta Micro name https://docs.deta.sh/docs/cli/commands/#deta-clone
   deta-project: '' #Optional: Deta project name https://docs.deta.sh/docs/cli/commands/#deta-clone
   deta-project-dir: ''#Optional: directory to be deployed on Deta. Default is the root "."
-  visor-mode: '' #open, enable or disable https://docs.deta.sh/docs/cli/commands/#deta-visor
 ```
