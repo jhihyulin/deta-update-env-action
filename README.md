@@ -1,7 +1,7 @@
 # deta-update-env-action
 Simple GitHub Action to update environment
 
-```shell
+```yaml
 - name: Update environment on Deta
   uses: jhihyulin/deta-update-env-action@v1.0.0
   with:
